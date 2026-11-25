@@ -1,0 +1,9 @@
+# Rahasia
+secrets.h
+
+# Build / IDE
+.pio/
+.vscode/
+build/
+*.bin
+*.elf
